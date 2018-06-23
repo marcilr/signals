@@ -1,0 +1,7 @@
+signals.txt
+Created Fri Jun 22 16:48:24 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Signals
+
